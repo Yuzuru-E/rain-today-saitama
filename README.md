@@ -1,28 +1,39 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 1.アプリ名
+## 風語　翔 (埼玉県南部の降水確率お知らせ LINE BOT)
 
-Things you may want to cover:
+![風語翔](https://user-images.githubusercontent.com/63190202/89412031-5967dd00-d761-11ea-9487-b4da0129f707.JPG)
 
-* Ruby version
+## 2.機能
+### 埼玉県南部で当日の6時間毎の降水確率が30%以上の場合、AM6:30頃にお知らせしてくれるLINE BOTです。
 
-* System dependencies
+## 3.使い方
+### https://lin.ee/LTehhju
+ 上記URLからリンク先に遷移後、友達登録をしていただければ利用可能です。
 
-* Configuration
+※時間の設定は変更いたしました。
+![_20200729_084810](https://user-images.githubusercontent.com/63190202/89412086-6b498000-d761-11ea-9571-f3e07577b9cb.JPG)
 
-* Database creation
+- 「明日」,「明後日」等の特定のワードに対して反応してそれぞれ該当する日に雨が降るかを返信します。
 
-## usersテーブル
+## 4.作成理由
+- 製作者様:https://ysk-pro.hatenablog.com/entry/railnotice-linebot ゆうすけさん作「今日雨降るよちゃん」の記事を見て、railsでLINE BOTがどのような仕組みで作れるのか知りたかった。
+- 自分でも使って見たかった為、自分の住んでいる地域に合わせてカスタマイズした。
+
+## 5.使用技術(開発環境)
+- ruby,ruby on rails
+### Gem
+- line-bot-api
+
+## 6.DB設計
+### usersテーブル
 |Column|Type|Options|
 |------|----|-------|
 |line_id|string|null: false|
-* Database initialization
 
-* How to run the test suite
+## 7.今後
+- 今回作成するにあたりLINE BOTの大まかな仕組みを把握できた為、他にもLINE BOTを作成予定です。
+- 現在筋トレサポートLINE BOT「筋トレする造(ぞう)」製作中
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
