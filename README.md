@@ -13,6 +13,10 @@ Things you may want to cover:
 
 * Database creation
 
+## usersテーブル
+|Column|Type|Options|
+|------|----|-------|
+|line_id|string|null: false|
 * Database initialization
 
 * How to run the test suite
