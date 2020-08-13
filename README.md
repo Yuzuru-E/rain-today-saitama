@@ -26,6 +26,8 @@
 - ruby,ruby on rails
 ### Gem
 - line-bot-api
+### PaaS
+- heroku
 
 ## 6.DB設計
 ### usersテーブル
