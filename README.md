@@ -12,8 +12,7 @@
 ### https://lin.ee/LTehhju
  上記URLからリンク先に遷移後、友達登録をしていただければ利用可能です。
 
-※時間の設定は変更いたしました。
-![_20200729_084810](https://user-images.githubusercontent.com/63190202/89412086-6b498000-d761-11ea-9571-f3e07577b9cb.JPG)
+![風語 翔](https://user-images.githubusercontent.com/63190202/90083264-025b9c80-dd4d-11ea-9a64-8ab5fb20c5ab.JPG)
 
 - 「明日」,「明後日」等の特定のワードに対して反応してそれぞれ該当する日に雨が降るかを返信します。
 
