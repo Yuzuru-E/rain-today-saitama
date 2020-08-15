@@ -27,13 +27,7 @@
 ### PaaS
 - heroku
 
-## 6.DB設計
-### usersテーブル
-|Column|Type|Options|
-|------|----|-------|
-|line_id|string|null: false|
-
-## 7.今後
+## 6.今後
 - 今回作成するにあたりLINE BOTの大まかな仕組みを把握できた為、他にもLINE BOTを作成予定です。
 - 現在筋トレ初心者向けサポートLINE BOT「筋トレする造(ぞう)」製作中
 
